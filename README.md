@@ -1,1 +1,2 @@
-# COSC2196test my numbo jumbo
+# COSC2196.
+# MY assignment 1 repo
